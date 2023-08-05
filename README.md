@@ -1,6 +1,6 @@
 # Group1_Evolutionary_algorithm_Intelligent_systems
 
-GOUP 1 
+GROUP 1 
 MEMBERS : 
               - Roland Mawuli Awuku – 11004648
               - Richmond Sam Brown – 11004928
